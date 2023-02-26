@@ -1,7 +1,19 @@
 ---
 layout: single
-title:  "First Post! How to use Jekyll"
+title: "How to create blog with existing theme"
 ---
 
-# First time creating a blog
-This will be the first page of my developer journey
+# Create blog with Jekyll
+
+In this blog post, I'll guide you through the process of creating a blog with **Jekyll**, from setting up your development environment to deploying your site to a hosting service.
+I'll cover everything you need to know, including how to install Jekyll, choose a theme, customize your blog, and add new content. Whether you're a seasoned developer or a newbie blogger, I've got you covered. So let's dive in and get started!
+
+## Requirements
+
+> You need to know how to use git, github and VS code
+
+## 1. Choose a theme
+
+Let's choose the right theme for you. Google "github pages blog theme"
+
+![Alt text](../images/Screen%20Shot%202023-02-25%20at%2010.18.45%20PM.png)
