@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "First imported notion post"
+categories: create_blog
 ---
 
 # Blog Post

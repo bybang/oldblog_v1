@@ -1,6 +1,9 @@
 ---
 layout: single
-title: "How to create blog with existing theme"
+title: "How to create github pages blog"
+categories: create_blog
+tag: [blog, jekyll]
+toc: true
 ---
 
 # Create blog with Jekyll
