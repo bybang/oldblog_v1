@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "[MERN] dashboard clone coding practice"
-categories: coding-practice
-tag: [coding-practice]
+categories: codingPractice
+tag: [codingPractice]
 toc: true
 ---
 
