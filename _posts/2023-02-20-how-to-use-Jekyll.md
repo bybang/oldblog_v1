@@ -19,4 +19,4 @@ I'll cover everything you need to know, including how to install Jekyll, choose 
 
 Let's choose the right theme for you. Google "github pages blog theme"
 
-![Alt text](../images/Screen%20Shot%202023-02-25%20at%2010.18.45%20PM.png)
+![Alt text](<../images/2023-02-20-how-to-use-Jekyll/Screen Shot 2023-02-25 at 10.18.45 PM.png>)
