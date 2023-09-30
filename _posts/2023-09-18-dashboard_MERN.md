@@ -18,9 +18,9 @@ In this post, I will write the details based on what I have learned from the tut
 
 There was a bad auth error, which did not connect MongoDB to the backend.
 
-![Alt text](<../images/Screenshot 2023-09-18 at 11.07.22 PM.png>)
+![Alt text](</images/2023-09-18-dashboard_MERN/Screenshot 2023-09-18 at 11.07.22 PM.png>)
 
-![Alt text](<../images/Screenshot 2023-09-18 at 11.09.17 PM.png>)
+![Alt text](</images/2023-09-18-dashboard_MERN/Screenshot 2023-09-18 at 11.09.17 PM.png>)
 
 # 🎯 Strategy
 
@@ -35,7 +35,7 @@ In my case, I didn't set up the password because I used an existing database.
 
 I set up the password from the following area in the picture and put it in the .env file.
 
-![Alt text](<../images/Screenshot 2023-09-18 at 11.14.31 PM.png>)
+![Alt text](</images/2023-09-18-dashboard_MERN/Screenshot 2023-09-18 at 11.14.31 PM.png>)
 
 # 🧩 Problem
 
