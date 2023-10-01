@@ -15,12 +15,13 @@
 minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 github: [metadata]
+future: true
 
 # Site Settings
 locale: "en_US"
 title: "ByBang Develog"
 title_separator: "&#124;"
-subtitle: "“Be a better version of yourself.”"
+subtitle: # "“Be a better version of yourself.”"
 name: "Joshua Bang"
 description: "Develop myself and career"
 url: "https://bybang.github.io"
