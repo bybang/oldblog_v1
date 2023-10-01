@@ -2,7 +2,7 @@
 layout: single
 title: "[LeetCode] Daily LeetCode: 1323"
 categories: codingTest
-tag: [codingTest]
+tag: [codingTest, LeetCode]
 toc: true
 ---
 

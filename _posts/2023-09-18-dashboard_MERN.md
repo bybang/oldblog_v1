@@ -2,7 +2,7 @@
 layout: single
 title: "[MERN] dashboard clone coding practice"
 categories: codingPractice
-tag: [codingPractice]
+tag: [codingPractice, JavaScript, MERN]
 toc: true
 ---
 
