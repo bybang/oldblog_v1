@@ -4,6 +4,7 @@ title: "[LeetCode] Daily LeetCode: 1323"
 categories: codingTest
 tag: [codingTest, LeetCode]
 toc: true
+published: true
 ---
 
 # 1323. Maximum 69 Number

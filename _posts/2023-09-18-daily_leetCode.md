@@ -4,6 +4,7 @@ title: "[LeetCode] Daily LeetCode: 2160, 876"
 categories: codingTest
 tag: [codingTest, LeetCode]
 toc: true
+published: true
 ---
 
 # 2160. Minimum Sum of Four Digit Number After Splitting Digits
